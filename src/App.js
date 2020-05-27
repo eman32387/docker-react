@@ -14,6 +14,9 @@ function App() {
           This is my first ReactJS with Docker.
           See you soon Laravel. ;)
         </p>
+        <p>
+          This line has been added for feature.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
